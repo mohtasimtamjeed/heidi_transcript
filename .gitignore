@@ -1,0 +1,15 @@
+# Secrets and environment variables
+.env
+
+# Virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local media folders (so we don't upload heavy video/audio files to GitHub!)
+input_videos/
+output_audios/
+transcripts/
