@@ -2,7 +2,7 @@
 
 ## 🎯 The Problem: Heidi Has No German Subtitles
 
-I was watching *Heidi* (the classic 1974 anime) *auf Deutsch* (in German) to practice my language skills. While it is highly beneficial to let the native sounds, rhythms, and intonations wash over you, there are no official German subtitles available for this dub. I felt that a reinforcement of textual input would significantly improve my understanding and enjoyment.
+I was watching *Heidi* (the classic 1974 anime) *auf Deutsch* (in German) to practice my German (but mostly because I remember watching it as a child fondly). While it is highly beneficial to let the native sounds, rhythms, and intonations wash over you, [there are no official German subtitles available for this dub.](https://www.reddit.com/r/German/comments/1c8o59w/heidi_in_german/) I felt that a reinforcement of textual input would significantly improve my understanding and enjoyment.
 
 ---
 
