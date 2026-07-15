@@ -4,11 +4,13 @@
 
 I was watching *Heidi* (the classic 1974 anime) *auf Deutsch* (in German) to practice my German (but mostly because I remember watching it as a child fondly). While it is highly beneficial to let the native sounds, rhythms, and intonations wash over you, [there are no official German subtitles available for this dub.](https://www.reddit.com/r/German/comments/1c8o59w/heidi_in_german/) I felt that a reinforcement of textual input would significantly improve my understanding and enjoyment.
 
+[The complete series of 52 episodes in German is available here](https://archive.org/details/heidi_de)
+
 ---
 
 ## 💡 The Solution: Resilient Multi-Chunk Audio Transcription Pipeline
 
-To bridge this gap, I designed a fault-tolerant, asynchronous-ready Python processing pipeline that automates large-scale media file transcription using the Google Gemini API. This system orchestrates end-to-end media preprocessing, dynamic audio chunking with boundary protection, and absolute timeline synchronization.
+To bridge this gap, I designed a fault-tolerant, asynchronous-ready Python processing pipeline that automates large-scale media file transcription using the Google Gemini API. This system orchestrates end-to-end media preprocessing, dynamic audio chunking with boundary protection, and absolute timeline synchronization. This should work with any mp4/mpeg files.
 
 ### 🏗️ System Architecture & Data Flow
 
