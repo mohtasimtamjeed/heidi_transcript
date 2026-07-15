@@ -13,3 +13,4 @@ __pycache__/
 input_videos/
 output_audios/
 transcripts/
+temp_chunks/
